@@ -1,0 +1,33 @@
+.conteudo {
+	-fx-background-color: black;
+	-fx-font-family: "Oswald";
+	
+}
+
+.titulo {
+	-fx-text-fill: rgb(0, 255, 255);
+	-fx-font-size: 40px;
+}
+
+
+.numero {
+	-fx-text-fill: rgb(255, 255, 255);
+	-fx-font-size: 28px;
+}
+
+.botoes {
+	-fx-background-color: #fff;
+	-fx-text-fill: #48b2ee;
+	-fx-font-size: 28px;
+	-fx-min-width: 60px;
+	-fx-min-height: 60px;
+	-fx-background-radius: 30px;
+}
+
+.verde {
+	-fx-text-fill: rgb(0, 255, 0);
+}
+
+.vermelho {
+	-fx-text-fill: rgb(255, 0, 0);
+}
